@@ -1,6 +1,19 @@
-<<<<<<< HEAD
-CodeAlpha FAQ Chatbot Project
-=======
-# CodeAlpha_FAQ_Chatbot
-AI FAQ Chatbot built with Python, NLP, TF-IDF, and Cosine Similarity.
->>>>>>> dfc730e0f2cca7bb56c3846b11239e14696bd3c5
+# AI FAQ Chatbot 🤖
+
+This is an AI-powered FAQ chatbot built using NLP and Streamlit.
+
+## Features
+- Answer questions from dataset
+- NLP preprocessing
+- TF-IDF + Cosine Similarity
+- Streamlit Web Interface
+
+## Tech Stack
+- Python
+- Pandas
+- NLTK
+- Scikit-learn
+- Streamlit
+
+## How to Run
+streamlit run app.py
