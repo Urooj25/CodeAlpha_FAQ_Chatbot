@@ -13,37 +13,50 @@ The chatbot is deployed using Streamlit, providing a clean and interactive web i
 🧠 Handles unknown queries using confidence threshold
 📈 Displays confidence score for responses
 📝 Maintains chat history
-🛠️ Technologies Used
+
+
+
+##Technologies Used
 Python 🐍
 Streamlit
 Pandas
 NLTK
 Scikit-learn
-⚙️ How It Works
+
+
+##⚙️ How It Works
 User enters a question
 Text is preprocessed (lowercase, remove punctuation, tokenization)
 TF-IDF converts text into numerical vectors
 Cosine similarity compares user query with dataset questions
 Best match is selected and returned as response
 If similarity is low → chatbot gives fallback response
-📂 Project Structure
+
+
+##📂 Project Structure
 📁 AI-FAQ-Chatbot
 │── app.py
 │── faq_dataset.csv
 │── README.md
-▶️ How to Run
+
+
+##▶️ How to Run
 Clone the repository
 git clone https://github.com/Urooj25/CodeAlpha_FAQ_Chatbot.git
 Install dependencies
 pip install streamlit pandas nltk scikit-learn
 Run the app
 streamlit run app.py
-💡 Future Improvements
+
+
+##💡 Future Improvements
 Add voice input 🎤
 Improve NLP using advanced models
 Expand dataset for better accuracy
 Deploy online (Streamlit Cloud / Render)
-🏆 Project Highlights
+
+
+##🏆 Project Highlights
 
 ✔ Real AI (NLP-based, not rule-based)
 ✔ Interactive UI
