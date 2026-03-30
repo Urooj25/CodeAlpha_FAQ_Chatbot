@@ -1,11 +1,11 @@
 🚀 AI FAQ Chatbot (NLP + Streamlit)
-📌 Project Overview
+📌 **Project Overview**
 
 This project is an AI-powered FAQ Chatbot built using Natural Language Processing (NLP) techniques. It intelligently understands user queries and provides the most relevant answers from a dataset.
 
 The chatbot is deployed using Streamlit, providing a clean and interactive web interface.
 
-🎯 Features
+🎯 **Features**
 
 🤖 AI-based chatbot using NLP
 
@@ -23,7 +23,7 @@ The chatbot is deployed using Streamlit, providing a clean and interactive web i
 
 
 
-##Technologies Used
+**Technologies Used**
 
 Python 🐍
 
@@ -36,7 +36,7 @@ NLTK
 Scikit-learn
 
 
-##⚙️ How It Works
+ **How It Works**
 
 User enters a question
 
@@ -51,7 +51,7 @@ Best match is selected and returned as response
 If similarity is low → chatbot gives fallback response
 
 
-##📂 Project Structure
+**📂 Project Structure**
 
 📁 AI-FAQ-Chatbot
 │── app.py
@@ -59,7 +59,7 @@ If similarity is low → chatbot gives fallback response
 │── README.md
 
 
-##▶️ How to Run
+**▶️ How to Run**
 
 Clone the repository:
 
@@ -74,7 +74,7 @@ Run the app:
 streamlit run app.py
 
 
-##💡 Future Improvements
+**💡 Future Improvements**
 
 Add voice input 🎤
 
@@ -86,7 +86,7 @@ Deploy online (Streamlit Cloud / Render)
 
 
 
-##🏆 Project Highlights
+**🏆 Project Highlights**
 
 ✔ Real AI (NLP-based, not rule-based)
 
@@ -96,9 +96,9 @@ Deploy online (Streamlit Cloud / Render)
 
 ✔ Suitable for internships & competitions
 
-👩‍💻 Author
+👩‍💻 **Author**
 
-Urooj Fatima
+**Urooj Fatima**
 🔗 GitHub: https://github.com/Urooj25
 
 ⭐ Support
